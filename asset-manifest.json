@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LeilaniMigisi/movie-app-project-phase-two/static/css/main.b9f543ec.css",
+    "main.js": "/LeilaniMigisi/movie-app-project-phase-two/static/js/main.676de0da.js",
+    "static/js/787.ddb4cc45.chunk.js": "/LeilaniMigisi/movie-app-project-phase-two/static/js/787.ddb4cc45.chunk.js",
+    "index.html": "/LeilaniMigisi/movie-app-project-phase-two/index.html",
+    "main.b9f543ec.css.map": "/LeilaniMigisi/movie-app-project-phase-two/static/css/main.b9f543ec.css.map",
+    "main.676de0da.js.map": "/LeilaniMigisi/movie-app-project-phase-two/static/js/main.676de0da.js.map",
+    "787.ddb4cc45.chunk.js.map": "/LeilaniMigisi/movie-app-project-phase-two/static/js/787.ddb4cc45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f543ec.css",
+    "static/js/main.676de0da.js"
+  ]
+}
