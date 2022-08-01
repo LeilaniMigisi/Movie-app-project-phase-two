@@ -4,7 +4,7 @@ import './App.css';
 import MovieList from "./components/MovieList";
 import MovieListHeading from "./components/MovieListHeading";
 import SearchBox from "./components/SearchBox";
-import AddFavourites from "./components/AddFavourites";
+import AddFavourites from "/home/leilani/Movie-app-project-phase-two/movie-app-project-phase-two/src/components/AddFavourites.js";
 import RemoveFavourites from "./components/RemoveFavourites";
 // import { Routes } from "react-router-dom";
 
